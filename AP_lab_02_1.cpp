@@ -32,6 +32,8 @@ int main()
     cout << "CHANGE ONE" << endl;
     cout << "CHANGE TWO" << endl;
 
+    cout << "Git changes to load on GitHub" << endl;
+
     cin.get();
     return 0;
 
