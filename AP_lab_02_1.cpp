@@ -17,6 +17,7 @@ int main()
     double z1;
     double z2;
 
+    cout << "Type angle alpha in radians:" << endl;
     cout << "a = "; cin >> a;
 
     z1 = ( sin(a) + sin(5*a) - sin(3*a) ) / ( cos(a) - cos(3*a) + cos(5*a) );
