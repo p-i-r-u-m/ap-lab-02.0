@@ -30,6 +30,7 @@ int main()
 
     cout << "Branch: Master" << endl;
     cout << "CHANGE ONE" << endl;
+    cout << "CHANGE TWO" << endl;
 
     cin.get();
     return 0;
