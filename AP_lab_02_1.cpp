@@ -30,7 +30,7 @@ int main()
 
     cout << "Branch: impr" << endl;
     cout << "Change 1" << endl;
-
+    cout << "Change 2" << endl;
 
     cin.get();
     return 0;
