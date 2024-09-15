@@ -34,6 +34,8 @@ int main()
 
     cout << "Git changes to load on GitHub" << endl;
 
+    cout << "Changes in local repo" << endl;
+
     cin.get();
     return 0;
 
