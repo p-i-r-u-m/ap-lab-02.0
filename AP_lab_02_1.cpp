@@ -28,6 +28,8 @@ int main()
     cout << "z1 = " << z1 << endl;
     cout << "z2 = " << z2 << endl;
 
+    cout << "Branch: Master" << endl;
+
     cin.get();
     return 0;
 
