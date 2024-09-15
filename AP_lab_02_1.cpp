@@ -29,6 +29,8 @@ int main()
     cout << "z2 = " << z2 << endl;
 
     cout << "Branch: impr" << endl;
+    cout << "Change 1" << endl;
+
 
     cin.get();
     return 0;
