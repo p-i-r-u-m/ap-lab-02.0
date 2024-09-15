@@ -28,13 +28,7 @@ int main()
     cout << "z1 = " << z1 << endl;
     cout << "z2 = " << z2 << endl;
 
-    cout << "Branch: Master" << endl;
-    cout << "CHANGE ONE" << endl;
-    cout << "CHANGE TWO" << endl;
 
-    cout << "Git changes to load on GitHub" << endl;
-
-    cout << "Changes in local repo" << endl;
 
     cin.get();
     return 0;
