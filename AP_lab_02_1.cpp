@@ -24,6 +24,7 @@ int main()
     z2 = tan(3*a);
 
     cout << endl;
+    cout << endl;
     cout << "- - - Result - - -" << endl;
     cout << "z1 = " << z1 << endl;
     cout << "z2 = " << z2 << endl;
